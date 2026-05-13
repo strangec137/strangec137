@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm an Environmental Science student from Bangladesh passionate about GIS, Python, spatial analysis, and environmental research. I love exploring new technologies and building data-driven projects focused on mapping and environmental assessment.Fun fact — I started coding through AI tools and self-learning from YouTube
+Hi, I'm an Environmental Science student from Bangladesh passionate about GIS, Python, spatial analysis, and environmental research. I love exploring new technologies and building data-driven projects focused on mapping and environmental assessment.
+Fun fact — I started coding through AI tools and self-learning from YouTube
 
 
 ## 🌐 Socials:
